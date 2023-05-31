@@ -1,0 +1,16 @@
+.image1{
+    height: 400px;
+    width: 400px;
+    transition-duration: 5s;
+    animation-name: Akhi;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+@keyframes Akhi{
+    40%{
+        height: 100px;
+        width: 100px;
+        float: right;
+    }
+   
+}

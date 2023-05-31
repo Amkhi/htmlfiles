@@ -1,0 +1,33 @@
+h1{
+    color: black;
+    margin-left: 100px;
+    margin-top: 100px;
+    padding: 5cm;
+    background-color:red;
+    height: 2cm;
+    width: 4cm;
+    border: solid 10px black;
+    border-left-style: double;
+    border-right-style: double;
+    border-bottom-color:green;
+    border-bottom-left-radius: 2cm;
+    border-bottom-right-radius: 2cm;
+    
+}
+h2{
+    color: orangered;
+    margin-left: 150px;
+    margin-top: 50px;
+    padding: 5cm;
+    background-color:goldenrod;
+    height: 2cm;
+    width: 20cm;
+    border: double 5px blue;
+    border-inline-color: black;
+    border-top-right-radius: 5cm;
+    border-bottom-left-radius: 5cm;
+    border-start-end-radius: 10cm;
+    border-bottom-right-radius: 10cm;
+    border-bottom-left-radius: 10cm;
+    border-top-left-radius: 10cm;
+}

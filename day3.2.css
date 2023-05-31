@@ -1,0 +1,24 @@
+body{
+    background-image: url(http://thewowstyle.com/wp-content/uploads/2015/01/images-of-nature-4.jpg);
+    background-position: center;
+}
+form{
+    text-shadow: red;
+    height: 10cm;
+    width: 20cm;
+    border-style: solid;
+    border-color: black;
+    
+   
+}
+
+
+
+h1{
+    border-style: double;
+    border-color: blue;
+    border-radius: 10cm;
+    background-color: white;
+    height: 1cm;
+    width:20cm ;
+}
